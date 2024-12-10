@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Bilaal, an IT specialist
 
-<!--
-**bilaalsulthan/bilaalsulthan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Information Technology Project
 
-Here are some ideas to get you started:
+## Features
+* [osticket: Help Desk Ticketing System](http://website.com)
+* [osticket: Trerequisites and installation](http://website.com) 
+* [osticket: Post-Instalation Configuration a osTidot: Ticket Lifecycle Examples](http://website.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* [Microsoft Azure](http://website.com)
+* [Configuing On-premises Adlive Directory within Azure VMs](http://website.com)
+* [Network Securty Groups (NSGs) and Inspecting Network Protocols](http://website.com)
+
+## Connect with Me
+- [LinkedIn Profile](https://example.com/linkedin) (Replace with your LinkedIn URL)
