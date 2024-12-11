@@ -12,7 +12,7 @@ osticket: Help Desk Ticketing System
 
 Microsoft Azure
 * [Configuing On-premises Adlive Directory within Azure VMs](https://github.com/bilaalsulthan/Azure)
-* [Network Securty Groups (NSGs) and Inspecting Network Protocols](http://website.com)
+* [Network Securty Groups (NSGs) and Inspecting Network Protocols](https://github.com/bilaalsulthan/networksecuritygroup1)
 
 ## Connect with Me
 - [LinkedIn Profile](https://example.com/linkedin) (Replace with your LinkedIn URL)
