@@ -4,8 +4,8 @@ Information Technology Project
 
 ## Features
 * [osticket: Help Desk Ticketing System](https://github.com/bilaalsulthan/os-ticket)
-* [osticket: Prerequisites and installation](http://website.com) 
-* [osticket: Post-Instalation Configuration a osTidot: Ticket Lifecycle Examples](http://website.com)
+* [osTicket - HOW TO SETUP AND ASSIGN ROLES]([http://website.com](https://github.com/bilaalsulthan/HOW-TO-SETUP-OSTICKET) 
+* [osTicket - Ticket Lifecycle Examples](https://github.com/bilaalsulthan/Ticket-Lifecycle-)
 
 * [Microsoft Azure](http://website.com)
 * [Configuing On-premises Adlive Directory within Azure VMs](http://website.com)
