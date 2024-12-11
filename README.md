@@ -4,7 +4,7 @@ Information Technology Project
 
 ## Features
 * [osticket: Help Desk Ticketing System](https://github.com/bilaalsulthan/os-ticket)
-* [osTicket - HOW TO SETUP AND ASSIGN ROLES]([http://website.com](https://github.com/bilaalsulthan/HOW-TO-SETUP-OSTICKET) 
+* [osTicket - HOW TO SETUP AND ASSIGN ROLES](https://github.com/bilaalsulthan/HOW-TO-SETUP-OSTICKET) 
 * [osTicket - Ticket Lifecycle Examples](https://github.com/bilaalsulthan/Ticket-Lifecycle-)
 
 * [Microsoft Azure](http://website.com)
