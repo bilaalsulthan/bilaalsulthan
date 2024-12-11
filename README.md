@@ -4,7 +4,7 @@ Information Technology Project
 
 ## Features
 * [osticket: Help Desk Ticketing System](http://website.com)
-* [osticket: Trerequisites and installation](http://website.com) 
+* [osticket: Prerequisites and installation](http://website.com) 
 * [osticket: Post-Instalation Configuration a osTidot: Ticket Lifecycle Examples](http://website.com)
 
 * [Microsoft Azure](http://website.com)
