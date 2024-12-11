@@ -3,7 +3,7 @@
 Information Technology Project
 
 ## Features
-* [osticket: Help Desk Ticketing System](http://website.com)
+* [osticket: Help Desk Ticketing System](https://github.com/bilaalsulthan/os-ticket)
 * [osticket: Prerequisites and installation](http://website.com) 
 * [osticket: Post-Instalation Configuration a osTidot: Ticket Lifecycle Examples](http://website.com)
 
